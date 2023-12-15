@@ -1,0 +1,53 @@
+﻿  mymex1.cpp
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(65,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(66,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(73,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(74,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(126,26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(129,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(136,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(137,34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(149,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(150,30): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(163,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(164,36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(176,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(177,32): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(208,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(209,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(216,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(217,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(274,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(275,30): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(287,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(288,32): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(319,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(320,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(328,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(329,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(392,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(393,30): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(405,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(406,32): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(468,58): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(469,55): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(470,55): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(483,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(486,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(489,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(472,12): warning C4101: “mean_p1”: 未引用的局部变量
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(550,70): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(553,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(556,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(590,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(593,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(597,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(598,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(609,30): warning C4838: 从“int”转换到“const mwSize”需要收缩转换
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(609,38): warning C4838: 从“int”转换到“const mwSize”需要收缩转换
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(609,45): warning C4838: 从“int”转换到“const mwSize”需要收缩转换
+J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\mymex1.cpp(624,40): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+  cpp_mexapi_version.cpp
+    正在创建库 J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\bin\x64\Release\mymex1.lib 和对象 J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\bin\x64\Release\mymex1.exp
+  mymex1.vcxproj -> J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\bin\x64\Release\mymex1.mexw64
+     Deleting J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\bin\x64\Release\mymex1.exp J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\bin\x64\Release\mymex1.lib J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\bin\x64\Release\mymex1.mexw64.manifest and J:\lab\code\computeDepth\EPILinesDetections\required\mymex1\bin\x64\Release\mymex1.ilk
